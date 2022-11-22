@@ -2,4 +2,24 @@
    - CI adalah pengintegrasian kode ke dalam repositori kode kemudian menjalankan pengujian secara otomatis, cepat, dan sering.
    
 
-2.
+2. 
+berhubung aku udh create fork nya, jadi inilah tampilannya.
+
+![Screenshot from 2022-11-22 18-07-29](https://user-images.githubusercontent.com/118157585/203305316-795a5062-08b0-417d-8fbc-528fc2f53ef1.png)
+
+nah maka kalian bisa liat repository tersebut didalam github kita
+
+![Screenshot from 2022-11-22 18-07-49](https://user-images.githubusercontent.com/118157585/203305340-be35113e-25ca-44da-a3a9-7564cd2b78c7.png)
+
+![Screenshot from 2022-11-22 18-06-51](https://user-images.githubusercontent.com/118157585/203305275-84c2d9f9-455a-4a76-9740-076c2aa5c9ae.png)
+![Screenshot from 2022-11-22 18-18-39](https://user-images.githubusercontent.com/118157585/203305397-2d60cc8c-4b56-4fee-b914-d8b64f70043d.png)
+![Screenshot from 2022-11-22 18-19-21](https://user-images.githubusercontent.com/118157585/203305412-ff3a9218-98cc-4e31-b305-f983d52b8b2d.png)
+![Screenshot from 2022-11-22 18-20-12](https://user-images.githubusercontent.com/118157585/203305420-ebb3bbbb-75da-47a0-a566-775739c593c8.png)
+![Screenshot from 2022-11-22 18-20-45](https://user-images.githubusercontent.com/118157585/203305452-950f98fd-ce4c-47b1-a072-6bc33b14c345.png)
+![Screenshot from 2022-11-22 18-21-09](https://user-images.githubusercontent.com/118157585/203305497-d0e7bc45-2d30-4ef1-b2ec-1997dfbd66ef.png)
+![Screenshot from 2022-11-22 18-23-32](https://user-images.githubusercontent.com/118157585/203305521-f32ad8b3-16b1-4976-aac7-d0d7382924cc.png)
+![Screenshot from 2022-11-22 18-24-22](https://user-images.githubusercontent.com/118157585/203305552-2332792f-e8b0-4c41-b9af-e5b4c81b88ef.png)
+![Screenshot from 2022-11-22 18-26-57](https://user-images.githubusercontent.com/118157585/203305682-d36a1606-11c4-4741-a003-fc94d99ecbc0.png)
+![Screenshot from 2022-11-22 18-33-12](https://user-images.githubusercontent.com/118157585/203305705-7b73a9ca-695e-4846-8fbe-87978f6ad1d1.png)
+![Screenshot from 2022-11-22 18-34-29](https://user-images.githubusercontent.com/118157585/203305737-f9092e51-d400-4ac6-b92f-468867beccae.png)
+![Screenshot from 2022-11-22 18-34-48](https://user-images.githubusercontent.com/118157585/203305774-626bfb7c-ab6f-44a9-9ffa-e7afccee7133.png)
