@@ -14,15 +14,16 @@
     lalu kita beri permissionnya ke upd.upg.sh dengan mengetikan perintah:
     sudo chmod u+x upd.upg.sh
 
-    ![Screenshot from 2022-11-22 17-11-14](https://user-images.githubusercontent.com/118157585/203288981-873e3c7d-feb5-4354-86ef-a87ab570002e.png)
+   ![Screenshot from 2022-11-22 17-11-14](https://user-images.githubusercontent.com/118157585/203288981-873e3c7d-feb5-4354-86ef-a87ab570002e.png)
 
     lalu kita eksekusi upd.upg.sh kita dengan menjalankan perintah berikut:
     sudo ./upd.upg.sh
     lalu muncul update nya
 
-    ![Screenshot from 2022-11-22 17-13-44](https://user-images.githubusercontent.com/118157585/203288964-a1da79b0-d2d8-4b1d-86ca-c0d2507805b0.png)
+   ![Screenshot from 2022-11-22 17-13-44](https://user-images.githubusercontent.com/118157585/203288964-a1da79b0-d2d8-4b1d-86ca-c0d2507805b0.png)
 
     nah ini untuk tampilan saat upgrade nya.
 
-    ![Screenshot from 2022-11-22 17-13-13](https://user-images.githubusercontent.com/118157585/203288969-c547446a-f64b-4072-9682-78c55d0dabdc.png)
+   ![Screenshot from 2022-11-22 17-13-13](https://user-images.githubusercontent.com/118157585/203288969-c547446a-f64b-4072-9682-78c55d0dabdc.png)
+
 
