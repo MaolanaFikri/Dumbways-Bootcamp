@@ -31,5 +31,28 @@
     nah ini untuk tampilan saat upgrade nya.
 
    ![Screenshot from 2022-11-22 17-13-13](https://user-images.githubusercontent.com/118157585/203288969-c547446a-f64b-4072-9682-78c55d0dabdc.png)
-
-
+   
+3. first, nah disini kita edit akses port nya dengan perintah
+   ```
+   akses.port.sh
+   ```
+   ![Screenshot from 2022-11-22 23-10-00](https://user-images.githubusercontent.com/118157585/203364964-74b58748-fb07-49db-af0c-55eb2a700ef9.png)
+   
+   nah klo udh masuk ke editor, kita edit seperti yg diperintahkan yaitu buat akses ke port 22, 80, dan 443. bisa lihat gambar dibawah ini.
+   
+   ![Screenshot from 2022-11-22 23-08-49](https://user-images.githubusercontent.com/118157585/203364966-7c22f06f-51c6-4c8a-b05e-13613fbd13d5.png)
+   
+   nah disini file si akses.port.sh ini akan aku beri akses bisa di eksekusi dengan perintah:
+   ```
+   sudo chmod +x akses.port.sh
+   ```
+   
+   ![Screenshot from 2022-11-22 23-10-33](https://user-images.githubusercontent.com/118157585/203364958-2de24038-cfc6-4ed2-acf3-9a26ea056bd5.png)
+   
+   lalu kita eksekusi dengan perintah
+   ```
+   sudo ./akses.port.sh
+   ```
+   maka akan memberi akses kepada port port itu.
+   
+   ![Screenshot from 2022-11-22 23-10-55](https://user-images.githubusercontent.com/118157585/203364949-ecc03902-e607-4e0d-afc3-7a20ea0ca2f6.png)
