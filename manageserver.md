@@ -71,4 +71,17 @@
 ![Screenshot from 2022-11-24 00-11-42](https://user-images.githubusercontent.com/118157585/203612868-1ced7c3a-5cf6-4dd8-8e88-c15483a99ca2.png)
 ![Screenshot from 2022-11-24 00-09-06](https://user-images.githubusercontent.com/118157585/203612872-a512219e-1b2c-4a28-aeb1-548ed9c4c604.png)
 ![Screenshot from 2022-11-24 00-08-55](https://user-images.githubusercontent.com/118157585/203612874-b627c02b-6256-4a42-96e5-7a943d33de7f.png)
+
+
+5.
+ini salah satu contoh untuk penggunaan monitoring proses yang sedang berjalan scr lengkap
+```
+ps -aux
+```
+![Screenshot from 2022-11-24 00-41-15](https://user-images.githubusercontent.com/118157585/203613667-ad4c631b-9266-4b51-8706-b2808a04c192.png)
+
+
+
+
+Challange :
 ![Screenshot from 2022-11-24 00-33-09](https://user-images.githubusercontent.com/118157585/203612879-40941dfe-ea7a-407d-9713-1aa41f470fd4.png)
