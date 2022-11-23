@@ -84,4 +84,22 @@ ps -aux
 
 
 Challange :
+
+
+untuk tantangan install NVM menggunakan bash saya masih berada di dalam direktori si manipulasi tadi dan file manipulasi yang tadi
+
+pertama kita masuk ke 
+```
+nano fikri.sh
+```
+lalu edit seperti perintah gambar dibawah ini, setelah selesai lalu save
+
+![Screenshot from 2022-11-24 00-33-09](https://user-images.githubusercontent.com/118157585/203612879-40941dfe-ea7a-407d-9713-1aa41f470fd4.png)
+nah setelah kita udh selesai save, lalu kita eksekusi file 
+```
+fikri.sh
+```
+
+lalu akan muncul tampilan seperti dibawah, dan tunggu aja sampai proses instalasi selesai.
+![Screenshot from 2022-11-24 00-33-34](https://user-images.githubusercontent.com/118157585/203614335-ee6eeb17-19db-4d80-85b3-f987d79ae318.png)
 ![Screenshot from 2022-11-24 00-33-09](https://user-images.githubusercontent.com/118157585/203612879-40941dfe-ea7a-407d-9713-1aa41f470fd4.png)
