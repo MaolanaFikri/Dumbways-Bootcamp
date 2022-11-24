@@ -124,15 +124,36 @@ lalu kita eksekusi file "fikri.sh", dengan mengetikkan perintah
 ```
 sudo ./fikri.sh
 ```
-nah gambar dibawah ini tampilan untuk contoh echo yang kita edit di editor nano.fikri.sh
+nah gambar dibawah ini tampilan untuk contoh echo yang kita edit di editor nano fikri.sh
 
 ![Screenshot from 2022-11-24 00-20-59](https://user-images.githubusercontent.com/118157585/203612848-2ee31046-b317-445a-a898-b5191a2e469f.png)
+nah sekarang kita akan mencontohkan pemakaian sort, ini kita masuk ke editor lagi dengan mengetikkan perintah :
+```
+nano fikri.sh
+```
+lalu kita ketikkan perintah seperti gambar dibawah, ini fungsinya mengurutkan  data secara ascending.
+
+![Screenshot from 2022-11-24 00-21-52](https://user-images.githubusercontent.com/118157585/203612851-94f6c1f3-8beb-4cb2-8739-f42769c60a7b.png)
+
+nah lalu kita eksekusi untuk contoh sort nya dengan mengetikkan perintah
+```
+sudo ./fikri.sh
+```
+maka data akan berurut dari atas sampai bawah.
+
+![Screenshot from 2022-11-24 00-22-23](https://user-images.githubusercontent.com/118157585/203612840-156cd23a-468a-4a6a-b099-3e427f570997.png)
+
+nah sekarang kita masuk ke contoh mengganti teks menggunakan perintah sed, skrg kita masuk ke editor, lalu masukan perintah seperti dibawah.
+
+![Screenshot from 2022-11-24 00-25-20](https://user-images.githubusercontent.com/118157585/203612834-da7fb7c1-37d6-483e-b3b0-d17a43b150a5.png)
+
+nah setelah kita save, lalu kita eksekusi dengan mengetikkan perintah
+```
+sudo ./fikri.sh
+```
+taraaaaaaa, teks "Dumbways" udh berubah menjadi "Bootcamp"
 
 ![Screenshot from 2022-11-24 00-26-09](https://user-images.githubusercontent.com/118157585/203612831-e98dc0ee-db0e-4bb2-be82-c8bf1206fd82.png)
-![Screenshot from 2022-11-24 00-25-20](https://user-images.githubusercontent.com/118157585/203612834-da7fb7c1-37d6-483e-b3b0-d17a43b150a5.png)
-![Screenshot from 2022-11-24 00-22-23](https://user-images.githubusercontent.com/118157585/203612840-156cd23a-468a-4a6a-b099-3e427f570997.png)
-![Screenshot from 2022-11-24 00-20-59](https://user-images.githubusercontent.com/118157585/203612848-2ee31046-b317-445a-a898-b5191a2e469f.png)
-![Screenshot from 2022-11-24 00-21-52](https://user-images.githubusercontent.com/118157585/203612851-94f6c1f3-8beb-4cb2-8739-f42769c60a7b.png)
 
 
 5.
