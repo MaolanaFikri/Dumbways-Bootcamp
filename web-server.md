@@ -71,7 +71,7 @@ hostname -I
 ```
 ![Screenshot from 2022-11-25 01-56-55](https://user-images.githubusercontent.com/118157585/203851458-d7b3055d-b974-43a6-9eaa-4c4602f6acb9.png)
 nah sekarang kita akses di browser dengan menggunakan ip server kita
-```
+
 
 ![Screenshot from 2022-11-25 01-57-44](https://user-images.githubusercontent.com/118157585/203851461-b28f49d5-8ce4-426d-bc94-2c942c26fff7.png)
 ![Screenshot from 2022-11-25 01-43-51](https://user-images.githubusercontent.com/118157585/203851473-45560358-9044-40e8-9ebb-bd1be545286b.png)
