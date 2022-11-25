@@ -8,16 +8,73 @@
 ![Screenshot from 2022-11-25 01-35-59](https://user-images.githubusercontent.com/118157585/203851071-7523ae91-2f36-4dc6-b7f3-86ce3229639c.png)
 
 3.
-![Screenshot from 2022-11-25 01-46-00](https://user-images.githubusercontent.com/118157585/203851442-c4a8af60-a653-4784-bcef-c511f2c5b6a7.png)
+kita masuk ke teks editor dengan perintah
+```
+nano node.index.js
+```
+setelah masuk ke editor, lalu kita edit seperti gambar dibawah, dan langsung save.
+
+![Screenshot from 2022-11-25 01-38-33](https://user-images.githubusercontent.com/118157585/203851480-4c81ca24-5d88-4063-a294-995841450b7f.png)
+
+nah setelah itu kita ubah mode agar si node-index.sh bisa di eksekusi dengan perintah
+```
+sudo chmod +x node-index.js
+```
+![Screenshot from 2022-11-25 01-39-45](https://user-images.githubusercontent.com/118157585/203851478-0598f687-e638-44d5-add9-47fe9e13e258.png)
+
+setelah sudah kita ubah modenya, lalu kita eksekusi dengan perintah
+```
+sudo ./node-index.js
+```
+![Screenshot from 2022-11-25 01-43-51](https://user-images.githubusercontent.com/118157585/203851473-45560358-9044-40e8-9ebb-bd1be545286b.png)
+
+setelah itu kita lakukan clonning project dumbflix-frontend nya dengan perintah
+
+```
+git clone https://github.com/dumbwaysdev/dumbflix-frontend
+```
 ![Screenshot from 2022-11-25 01-45-11](https://user-images.githubusercontent.com/118157585/203851443-c6cea867-91ef-4411-b827-3a1b7ebb7fc0.png)
+
+sekarang kita masuk ke direktori dumbflix-frontend yang sudah kita download tadi dengan perintah
+```
+cd dumbflix-frontend
+```
+
+![Screenshot from 2022-11-25 01-46-00](https://user-images.githubusercontent.com/118157585/203851442-c4a8af60-a653-4784-bcef-c511f2c5b6a7.png)
+
+setelah sudah masuk ke direktori dumbflix-frontend, lalu kita lakukan npm install untuk menginstall dependensi dengan perintah
+```
+npm install
+```
+
 ![Screenshot from 2022-11-25 01-55-03](https://user-images.githubusercontent.com/118157585/203851447-fdd5652e-4398-409a-8cbc-5ec01276c4a8.png)
+lalu jalankan pm2 dengan perintah
+```
+pm2 start npm --name "dumbflix_frontend" -- start
+```
 ![Screenshot from 2022-11-25 01-55-49](https://user-images.githubusercontent.com/118157585/203851452-46d0af64-747c-4fec-96d8-f91235efa1cb.png)
+
+pertama kita enablekan dulu firewall nya, dengan perintah
+```
+sudo ufw enable
+```
+
+nah disini kita akan setting firewall agar aplikasi pada server utama berada pada port 3000
+```
+sudo ufw allow 3000
+```
+
 ![Screenshot from 2022-11-25 01-56-27](https://user-images.githubusercontent.com/118157585/203851454-ec61e390-2590-401b-bf67-26932a89c92a.png)
+sekarang kita cek ip kita dengan perintah 
+```
+hostname -I
+```
 ![Screenshot from 2022-11-25 01-56-55](https://user-images.githubusercontent.com/118157585/203851458-d7b3055d-b974-43a6-9eaa-4c4602f6acb9.png)
+nah sekarang kita akses di browser dengan menggunakan ip server kita
+```
+
 ![Screenshot from 2022-11-25 01-57-44](https://user-images.githubusercontent.com/118157585/203851461-b28f49d5-8ce4-426d-bc94-2c942c26fff7.png)
 ![Screenshot from 2022-11-25 01-43-51](https://user-images.githubusercontent.com/118157585/203851473-45560358-9044-40e8-9ebb-bd1be545286b.png)
-![Screenshot from 2022-11-25 01-39-45](https://user-images.githubusercontent.com/118157585/203851478-0598f687-e638-44d5-add9-47fe9e13e258.png)
-![Screenshot from 2022-11-25 01-38-33](https://user-images.githubusercontent.com/118157585/203851480-4c81ca24-5d88-4063-a294-995841450b7f.png)
 
 4.
 ![Screenshot from 2022-11-25 01-53-45](https://user-images.githubusercontent.com/118157585/203855827-8c4f82e4-b442-4f82-878f-eb71d470715a.png)
